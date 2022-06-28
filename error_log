@@ -1,0 +1,21 @@
+[21-Mar-2021 08:41:56 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ykovtka6z1g7/public_html/localcare.in/data.php on line 4
+[21-Mar-2021 08:41:56 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ykovtka6z1g7/public_html/localcare.in/data.php on line 4
+[21-Mar-2021 08:42:44 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'localcare'@'localhost' to database 'localcare' in /home/ykovtka6z1g7/public_html/localcare.in/data.php on line 4
+[21-Mar-2021 08:54:50 UTC] PHP Notice:  Undefined index: package in /home/ykovtka6z1g7/public_html/localcare.in/data.php on line 15
+[21-Mar-2021 08:56:38 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'localcare'@'localhost' to database 'localcare' in /home/ykovtka6z1g7/public_html/localcare.in/data.php on line 4
+[21-Mar-2021 08:56:54 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'localcare'@'localhost' to database 'localcare' in /home/ykovtka6z1g7/public_html/localcare.in/data.php on line 4
+[21-Mar-2021 09:07:47 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'localcare'@'localhost' to database 'localcare' in /home/ykovtka6z1g7/public_html/localcare.in/data.php on line 4
+[21-Mar-2021 09:08:42 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ykovtka6z1g7/public_html/localcare.in/data.php on line 4
+[21-Mar-2021 09:59:35 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ykovtka6z1g7/public_html/localcare.in/data.php on line 4
+[21-Mar-2021 12:09:06 UTC] PHP Notice:  Undefined index: package in /home/ykovtka6z1g7/public_html/localcare.in/data.php on line 15
+[21-Mar-2021 12:09:19 UTC] PHP Notice:  Undefined index: package in /home/ykovtka6z1g7/public_html/localcare.in/data.php on line 15
+[21-Mar-2021 12:14:51 UTC] PHP Notice:  Undefined index: package in /home/ykovtka6z1g7/public_html/localcare.in/data.php on line 15
+[21-Mar-2021 12:42:20 UTC] PHP Parse error:  syntax error, unexpected 'table' (T_STRING), expecting ',' or ';' in /home/ykovtka6z1g7/public_html/localcare.in/getdata.php on line 32
+[21-Mar-2021 12:42:23 UTC] PHP Parse error:  syntax error, unexpected 'table' (T_STRING), expecting ',' or ';' in /home/ykovtka6z1g7/public_html/localcare.in/getdata.php on line 32
+[21-Mar-2021 12:42:37 UTC] PHP Parse error:  syntax error, unexpected 'table' (T_STRING), expecting ',' or ';' in /home/ykovtka6z1g7/public_html/localcare.in/getdata.php on line 32
+[21-Mar-2021 12:45:46 UTC] PHP Notice:  Undefined index: package in /home/ykovtka6z1g7/public_html/localcare.in/data.php on line 15
+[21-Mar-2021 12:47:47 UTC] PHP Notice:  Undefined index: package in /home/ykovtka6z1g7/public_html/localcare.in/data.php on line 15
+[21-Mar-2021 12:48:03 UTC] PHP Notice:  Undefined index: package in /home/ykovtka6z1g7/public_html/localcare.in/data.php on line 15
+[21-Mar-2021 12:48:05 UTC] PHP Notice:  Undefined index: package in /home/ykovtka6z1g7/public_html/localcare.in/data.php on line 15
+[21-Mar-2021 18:51:18 UTC] PHP Notice:  Undefined index: package in /home/ykovtka6z1g7/public_html/localcare.in/data.php on line 15
+[21-Mar-2021 18:51:22 UTC] PHP Notice:  Undefined index: package in /home/ykovtka6z1g7/public_html/localcare.in/data.php on line 15
